@@ -1,4 +1,19 @@
-TBC
+### **4. Real-Time Texture Mapping Model**
+
+**Custom Code for Real-Time UV Mapping & Fabric Physics:**
+
+- Enables the real-time application of generated textures onto garments.
+
+**UI Overview:**
+
+- Minimalist interface allows users to view pattern estimations, reconstructed meshes, and real-time texture generation and mapping.
+- **Video Demonstration:**
+
+
+
+https://github.com/user-attachments/assets/95734452-3e74-4597-bd6b-e8c2d20de29a
+
+
 
 ## References
 
